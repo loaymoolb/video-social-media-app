@@ -11,6 +11,7 @@ This is a Full Stack Video Sharing Application built with TypeScript and Sanity 
 * **Next.js** file-based routing and data using server-side rendering and static generation
 * **Google Identity** and **OAuth** integration to log in and register users using Google
 * Entire application backend content management using **Stripe**
+* **TailwindCSS**
 * Interface and design creating with **Figma**
 
 
