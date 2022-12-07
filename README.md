@@ -10,7 +10,8 @@ This is a Full Stack Video Sharing Application built with TypeScript and Sanity 
 * State Management of the entire application using **React Context API**
 * **Next.js** file-based routing and data using server-side rendering and static generation
 * **Google Identity** and **OAuth** integration to log in and register users using Google
-* Entire application backend content management using **Stripe**
+* Entire application backend content management using **Sanity**
+* **Axios**, **Zustand**
 * **TailwindCSS**
 * Interface and design creating with **Figma**
 
