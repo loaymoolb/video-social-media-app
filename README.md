@@ -2,7 +2,7 @@
 # Storyy App
 This is a Full Stack Video Sharing Application built with TypeScript and Sanity that features Google Auth, the ability to upload, publish, share, comment on, and like videos, advanced search functionality, category filtering, profile pages, suggested accounts, and, of course, custom responsive design.
 
-## 🔗 Link: [Storyy](https://storyy-rho.vercel.app)
+## 🔗 Link: [Storyy](https://storyy-app.vercel.app)
 ## ![image](https://i.ibb.co/gThGBg4/image-2022-12-06-16-37-44.png)
 ## 🛠 Used tools:
 * **TypeScript**
@@ -18,7 +18,7 @@ This is a Full Stack Video Sharing Application built with TypeScript and Sanity 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://olhachumak.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://olhachumak.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olha-chumak)
 
 
